@@ -1,0 +1,22 @@
+[project]
+title = "Global Air Pollution Dashboard"
+version = "0.1.0"
+port = 8501
+slug = "my-assessment-app"
+entrypoint = "hello.py"
+
+
+[branding]
+name = "Preswald Project"
+logo = "images/logo.png"
+favicon = "images/favicon.ico"
+primaryColor = "#F89613"
+
+[data.air_pollution]
+type = "csv"
+path = "data/global_air_pollution.csv"
+
+
+[logging]
+level = "INFO"
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s" 
