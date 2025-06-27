@@ -15,13 +15,13 @@ An interactive, visual data dashboard built with **Preswald** and **Plotly** to 
 ## 🖼️ Screenshots
 
 ### 🏠 Dashboard Home
-![Dashboard Home](assets/dashboard_home.png)
+![Dashboard Home](https://github.com/amrita40/Preswald-Coding-Assessment/blob/main/Screenshot%202025-06-27%20111111.png?raw=true)
 
 ### 🎛️ PM2.5 Filter Using Slider
-![Filter Slider](assets/filter_slider.png)
+![Filter Slider](https://github.com/amrita40/Preswald-Coding-Assessment/blob/main/Screenshot%202025-06-27%20111120.png?raw=true)
 
 ### 🌍 Geo Map of Pollution Points
-![Map View](assets/map_view.png)
+![Map View](https://github.com/amrita40/Preswald-Coding-Assessment/blob/main/Screenshot%202025-06-27%20111209.png?raw=true)
 
 ---
 
