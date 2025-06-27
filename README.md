@@ -87,7 +87,7 @@ pip install playwright && playwright install
 Amritanshu Sinha
 B.Tech, Computer Engineering
 National Institute of Technology, Kurukshetra
-GitHub
+
 
 ## ⭐️ Give a Star
 If you found this project useful, consider giving it a ⭐️ to support the work.
