@@ -4,14 +4,6 @@ An interactive, visual data dashboard built with **Preswald** and **Plotly** to 
 
 ---
 
-## 📽️ Demo Video
-
-🎥 [Click to Watch Demo](assets/demo.mp4)
-
-> If video doesn't autoplay, download and watch from the `assets/` folder.
-
----
-
 ## 🖼️ Screenshots
 
 ### 🏠 Dashboard Home
@@ -28,7 +20,7 @@ An interactive, visual data dashboard built with **Preswald** and **Plotly** to 
 
 ### SQL Query 
 
- ![SQL Query View](https://github.com/amrita40/Preswald-Coding-Assessment/blob/main/Screenshot%202025-06-27%20111135.png?raw=true)
+ ![SQL Query View](https://github.com/amrita40/Preswald-Coding-Assessment/blob/main/Screenshot%202025-06-27%20111144.png?raw=true)
 
 ### PM2.5 Threshold (Dynamic Filter)
  ![Threshold (Dynamic Filter) View](https://github.com/amrita40/Preswald-Coding-Assessment/blob/main/Screenshot%202025-06-27%20111159.png?raw=true
