@@ -26,6 +26,16 @@ An interactive, visual data dashboard built with **Preswald** and **Plotly** to 
 ### PM2.5 level by country
 ![Level By Country View](https://github.com/amrita40/Preswald-Coding-Assessment/blob/main/Screenshot%202025-06-27%20111135.png?raw=true)
 
+### SQL Query 
+
+ ![SQL Query View](https://github.com/amrita40/Preswald-Coding-Assessment/blob/main/Screenshot%202025-06-27%20111135.png?raw=true)
+
+### PM2.5 Threshold (Dynamic Filter)
+ ![Threshold (Dynamic Filter) View](https://github.com/amrita40/Preswald-Coding-Assessment/blob/main/Screenshot%202025-06-27%20111159.png?raw=true
+)
+
+
+
 ---
 
 ## 📦 Features
