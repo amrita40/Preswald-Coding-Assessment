@@ -23,6 +23,9 @@ An interactive, visual data dashboard built with **Preswald** and **Plotly** to 
 ### 🌍 Geo Map of Pollution Points
 ![Map View](https://github.com/amrita40/Preswald-Coding-Assessment/blob/main/Screenshot%202025-06-27%20111209.png?raw=true)
 
+### PM2.5 level by country
+![Level By Country View](https://github.com/amrita40/Preswald-Coding-Assessment/blob/main/Screenshot%202025-06-27%20111135.png?raw=true)
+
 ---
 
 ## 📦 Features
